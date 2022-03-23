@@ -1,0 +1,7 @@
+D:\visualstudio\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csprojAssemblyReference.cache
+D:\visualstudio\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+D:\visualstudio\repos\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe.config
+D:\visualstudio\repos\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe
+D:\visualstudio\repos\ServerTCP\ServerTCP\bin\Debug\ServerTCP.pdb
+D:\visualstudio\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.exe
+D:\visualstudio\repos\ServerTCP\ServerTCP\obj\Debug\ServerTCP.pdb
